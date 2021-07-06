@@ -1,0 +1,171 @@
+body{
+   font-family: 'Noto Sans TC', sans-serif;
+}
+h1{
+    font-size: 60px;
+    color: grey;
+}
+h2{
+    font-size: 40px;
+    color: grey;
+    
+}
+a{
+ box-shadow: 5px 5px 20px  coral;   
+}
+p{
+    font-size: 20px;
+}
+.top{
+    padding-left: 5%;
+    
+}
+.orange{
+color: coral;
+}
+.flexible{
+display:flex;
+margin-bottom: 100px;
+}
+.hw{
+width: 50%;
+
+}
+.hw img{
+width: 80%;
+height: 100%;
+padding-left: 20%;
+}
+.btn{
+text-decoration: none;
+background-image: linear-gradient(orange ,tomato);
+color:black;
+padding: 10px 40px;
+border-radius: 30px;
+
+}
+.mid{
+    background-image: url(/pics/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hw1{
+width: 50%;
+
+
+}
+.hw1 img{
+width: 50%;
+height: 100%;
+padding-left: 30%;
+}
+.hw1 h2{
+padding-top:12% ;
+
+}
+.hw1 p{
+width: 70%;
+
+}
+
+.hw2{
+width: 30%;
+margin-left: 5%;
+margin-right: 5%;
+border-radius: 50px;
+box-shadow: 10px 10px 40px rgb(116, 128, 128);
+
+
+}
+.hw2 img{
+padding-top: 5%;
+width: 90%;
+padding-left: 5%;
+height: 50%;
+border-radius: 50px;
+}
+.hw2 h3
+{
+    padding-left: 5%;
+}
+.hw2 p
+{
+    padding-left: 5%;
+}
+.b1 h2
+{
+    width: 50%;
+    padding-left: 40%;
+}
+.b1 p
+{
+    width: 30%;
+    padding-left: 38%;
+}
+.lst{
+   
+    background-color: white;
+    box-shadow: 10px 10px 40px rgb(116, 128, 128);
+    border-radius: 15px;
+    width: 90%;
+    height: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+    
+}
+.lst1{
+
+    padding-left: 2%;
+    width: 40%;
+    
+    
+}
+footer{
+    background-color: black;
+    
+}
+footer h1{
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+    color: white;
+
+}
+.bonus{
+  width: 100%;  
+}
+.bonus h3{
+
+    color: coral;
+    width: 100%;
+    height: 10%;
+    font-size: 30px;
+    
+    background-color: cornsilk;
+    box-shadow: 10px 10px 40px rgb(116, 128, 128);
+    text-align: center;
+}
+.bonus img {
+width: 80%;
+height: 10%;
+
+}
+.bonus1{
+    width: 35%;
+    padding-left: 0%;
+}
+.inx1{
+    width: 50%;
+    padding-left: 20%;
+}
+.inx1 h2{
+    width: 40%;
+}
+.inx11 {
+    padding-top: 10%;
+}
+
+
